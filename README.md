@@ -48,9 +48,9 @@ Protecting the integrity of code, data, and historical provenance is central. Al
 ---
 
 ## 🛠️ Werkzeugkasten / Tech Stack
-* **Infrastructure as Code:** SaltStack, Ansible (z. B. für selbstkonfigurierende IoT-Mesh-Netzwerke)
+* **Infrastructure as Code:** SaltStack, Terraform, Shellscript (z. B. für selbstkonfigurierende IoT-Mesh-Netzwerke)
 * **Systems & Networks:** Decentralized Infrastructure, Sibling Clusters, Network Forensics
-* **Data & Forensics:** Dark Data Analytics, Microservice/Micromodel Architecture, Blockchain for Art Provenance
+* **Data & Forensics:** Dark Data Analytics, Microservice/Micromodel Architecture, Blockchain / Blockgraph for Art Provenance
 * **Languages & Config:** Shell, Python, YAML (Salt States), JSON
 
 ---
