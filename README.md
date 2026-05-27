@@ -42,7 +42,7 @@ Ich dokumentiere meine Forschungsergebnisse, Gedanken zu Zufällen in der Wissen
 Du arbeitest an der Schnittstelle von digitaler Forensik, Kulturgutschutz oder dezentralen Datennetzwerken? Ich bin immer offen für den Austausch mit Gleichgesinnten.
 
 *   🌐 **Web/Blog:** [smartexplorate.medium.com](https://smartexplorate.medium.com)
-*   💼 **LinkedIn:** [Ralf Siebert](https://de.linkedin.com/in/ralf-siebert-a4513b355) [[11]]
+*   💼 **LinkedIn:** [Ralf Siebert](https://de.linkedin.com/in/ralf-siebert-a4513b355) 
 
 ---
 <p align="center">
