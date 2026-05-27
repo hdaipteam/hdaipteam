@@ -2,15 +2,15 @@
 <h3 align="center">Information Archaeology & Dark Data Analytics</h3>
 
 <p align="center">
-  <em>"Menschen denken! Menschen vernetzen Information zu Wissen..."</em> [[5]]
+  <em>"Menschen denken! Menschen vernetzen Information zu Wissen..."</em>
 </p>
 
 ---
 
 ### 🏛️ Über mich / Über SMARTeXPLORATE
-Ich beschäftige mich mit der Schnittstelle zwischen Informatik, digitaler Forensik und kunsthistorischer Forschung [[1]]. Mein Kerngebiet ist die **Information Archaeology** und **Dark Data Analytics** – die Suche nach verborgenen, vergessenen oder nicht genutzten Daten, um historische Zusammenhänge aufzudecken und Kulturgüter zu schützen [[14]].
+Ich beschäftige mich mit der Schnittstelle zwischen Informatik, digitaler Forensik und kunsthistorischer Forschung. Mein Kerngebiet ist die **Information Archaeology** und **Dark Data Analytics** – die Suche nach verborgenen, vergessenen oder nicht genutzten Daten, um historische Zusammenhänge aufzudecken und Kulturgüter zu schützen.
 
-Wenn Code Geschichte bewahrt und Blockchain verlorenen Kunstwerken eine Stimme gibt, dann ist Technologie mehr als nur Selbstzweck [[8]]. Dezentrale Systeme und komplexe Infrastruktur sind für mich **lediglich das Werkzeug** (der digitale Spaten), um diese Archäologie der Information betreiben zu können.
+Wenn Code Geschichte bewahrt und Blockchain verlorenen Kunstwerken eine Stimme gibt, dann ist Technologie mehr als nur Selbstzweck. Dezentrale Systeme und komplexe Infrastruktur sind für mich **lediglich das Werkzeug** (der digitale Spaten), um diese Archäologie der Information betreiben zu können.
 
 ---
 
@@ -24,9 +24,9 @@ Wenn Code Geschichte bewahrt und Blockchain verlorenen Kunstwerken eine Stimme g
 ---
 
 ### 🛠️ Mein Werkzeugkasten (Tech Stack)
-*   **Infrastructure as Code:** SaltStack, Ansible (z.B. für selbstkonfigurierende IoT Mesh-Netzwerke [[6]])
+*   **Infrastructure as Code:** SaltStack, Ansible (z.B. für selbstkonfigurierende IoT Mesh-Netzwerke)
 *   **Systems & Networks:** Decentralized Infrastructure, Sibling Clusters, Network Forensics
-*   **Data & Forensics:** Dark Data Analytics, Compiler Building [[4]], Blockchain for Art Provenance [[8]]
+*   **Data & Forensics:** Dark Data Analytics, Compiler Building [[4]], Blockchain for Art Provenance
 *   **Languages:** Shell, Python, YAML (Salt States)
 
 ---
